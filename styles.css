@@ -1,0 +1,25 @@
+/*Header*********************************************/
+
+.header {
+  background-color: #f94a29;
+  color: white;
+  text-align: center;
+  padding: 5% 5%;
+  font-size: 6rem;
+}
+
+.body {
+  background-color: #fce22a;
+  color: #d61355;
+  text-align: center;
+  font-size: 4rem;
+  padding: 9% 9%;
+}
+
+.footer {
+  background-color: #30e3df;
+  text-align: center;
+  color: white;
+  padding: 3% 5%;
+  font-size: 1rem;
+}
